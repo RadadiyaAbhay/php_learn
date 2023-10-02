@@ -16,11 +16,9 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
   $tit = $_POST['title'];
   $descr = $_POST['description'];
 
-for ($i=0; $i < 500000; $i++) { 
-  # code...
+
   $sql1 = "INSERT INTO `notes` (`title` , `description`, `updateDate`) VALUES ('$tit','$descr', current_timestamp())";
   $res1 = mysqli_query($conn , $sql1);
-}
 
   ref();
 
