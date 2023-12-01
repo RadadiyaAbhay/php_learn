@@ -1,0 +1,341 @@
+******************** Privacy ************************** 
+
+<main>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 class=" pt-5 pb-0 mb-0 font-fami2 text-primary">Privacy Policy</h1>
+          <p >This privacy statement explains how Vendee Technology utilises and safeguards any data you provide us while using our website.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">1. Data That We Gather</h4>
+          <p>We could gather the following kinds of data:</p>
+          <ul class="pt-0 d-flex flex-column">
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Name, email address, and phone number are all examples of contact information.</li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i> demographic data, including postcode, tastes, and passions.</li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>additional data that is pertinent to client surveys and/or offers.</li>
+        </ul>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">2. How We Make Use of the Data</h4>
+          <p>To better understand your requirements and serve you, we need certain information in particular for the reasons listed below.</p>
+          <ul class="pt-0 d-flex flex-column">
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>keeping internal records. </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>We could make use of the data to make our goods and services better. </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Using the email address you have supplied, we may send you promotional emails on occasion about new goods, exclusive deals, or other topics we think you'll find interesting. </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Your information could occasionally be used to get in touch with you for market research. We could get in touch with you via phone, fax, mail, or email. </li>
+          </ul>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">3. The Lawfulness of the Processing of Personal Data</h4>
+          <p>We use the following legal justifications to process your personal information:</p>
+          <ul class="pt-0 d-flex flex-column">
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Contract performance: The processing is required to carry out our agreement with you. </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>For the sake of marketing or otherwise furthering our legitimate business interests, we may process your personal information.  </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i> Your rights and interests will always be balanced and safeguarded by us. Consent: Where required by relevant legislation, we will get your consent before to collecting or processing any of your personal data.</li>
+            
+          </ul>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">4. Rights of Data Subjects</h4>
+          <p>The following rights are yours under the CCPA and GDPR:</p>
+          <ul class="pt-0 d-flex flex-column">
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right of access: You have the right to ask to see any personal information we may have on you. </li>
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right to rectification: If your personal information is incorrect or lacking, you have the right to seek its rectification. </li>
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right to erasure: In some situations, you have the right to ask that your personal data be deleted or removed.</li>
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right to restrict processing: You have the right to request the restriction of processing of your personal data in certain circumstances. </li>
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right to data portability: You have the right to receive a copy of your personal data in a structured, commonly used, and machine-readable format. </li>
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right to object: You have the right to object to the processing of your personal data in certain circumstances. </li>  
+          <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Right to withdraw consent: If we rely on your consent as the legal basis for processing your personal data, you have the right to withdraw your consent at any time.</li>  
+          </ul>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">5. Safety</h4>
+          <p>We are devoted to protecting the security of your data. We have appropriate physical, technological, and administrative safeguards in place to prevent unauthorised access to or disclosure of the information we collect online.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">6. Sharing Personal Information</h4>
+          <p>We only allow sharing of your personal information with third parties under the following conditions:</p>
+          <ul class="pt-0 d-flex flex-column">
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>With your permission or under your guidance.</li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i> To abide by legal requirements, or to react to legitimate demands and legal procedure. </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>To safeguard and defend our interests, our possessions, or the security of our business, our personnel, our clients, or others. </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Your personal information may be transferred to third parties as part of a business transaction, such as a merger, acquisition, or sale of assets. </li>
+            
+          </ul>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">7. Transfers of Data Internationally</h4>
+          <p>We will make sure the necessary precautions are in place to secure your personal data if we transmit it to nations outside the European Economic Area (EEA) or your jurisdiction.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">8. Cookies</h4>
+          <p>Cookies may be used on our website to track visitor behaviour and enhance your surfing. You agree to the usage of cookies in line with our Cookie Policy by using our website.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">9. Updates to this Privacy Statement</h4>
+          <p>We might sometimes change our privacy statement. Any modifications will be communicated to you by posting the updated privacy policy on this website. Periodically reviewing this page for updates is advised.</p>
+        </div>
+  
+        <div class="col-12 pb-5">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">10. Get in Touch</h4>
+          <p>Please get in touch with us at <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new" target="_blank">vendeetechnology@gmail.com</a> if you have any inquiries or complaints regarding our privacy statement or want to make use of your data subject rights.</p>
+          <p>The last time this privacy statement was updated was 23<sup>th</sup> May 2023 .</p>
+        </div>
+              </div>
+          </div>
+  </section>
+</main>
+
+******************** Review **************************
+
+<main>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 class=" pt-5 pb-4 mb-0 font-fami2 text-primary">Product Reviews</h1>
+        </div>
+  
+        <div class="col-12 ">
+          <div class="review">
+            <h4 class="font-fami1 text-primary">Amazing product!</h4>
+            <p class="pb-3">I just bought Laptop and I'm quite happy with how it performs. It has surpassed my expectations and has great features. highly recommended</p>
+            <p class="author font-fami1">- John Doe</p>
+        </div>
+        </div>
+  
+        <div class="col-12">
+          <div class="review">
+            <h4 class="font-fami1 text-primary">Outstanding customer service</h4>
+            <p class="pb-3">My Mobile was having a small problem, so I phoned customer service. They handled my problem immediately and were really helpful. The level of service was superb.</p>
+            <p class="author font-fami1">- Jane Smith</p>
+        </div>
+        </div>
+  
+        <div class="col-12 pb-5">
+          <div class="review">
+            <h4 class="font-fami1 text-primary">Value for the Money</h4>
+            <p class="pb-3">Tablet provides excellent value for the money. It works as described and is of remarkable quality. I'm pleased with my purchase and would make another purchase from this merchant.</p>
+            <p class="author font-fami1">- David Williams</p>
+        </div>
+        </div>
+              </div>
+          </div>
+  </section>
+</main>
+
+******************** About **************************
+
+<main>
+  <section>
+      <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h1 class=" pt-5 pb-0 mb-0 font-fami2 text-primary">About Us</h1>
+              <p >Greetings from Vendee Technology! We are a top source of electrical product information, committed to assisting shoppers in making wise purchases.</p>
+            </div>
+  
+            <div class="col-12">
+              <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">Our Purpose</h4>
+              <p>Our goal at Vendee Technology is to provide people with accurate, dependable, and current information regarding electrical items. Our goal is to make the process of finding the ideal electrical products for our consumers' requirements and tastes more straightforward.</p>
+            </div>
+  
+            <div class="col-12">
+              <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">Our Group</h4>
+              <p>We have put together a group of tech nerds who are enthusiastic about electronics and technology. Our staff, which includes of market specialists, seasoned reviewers, and researchers, works assiduously to compile in-depth product information, produce objective evaluations, and keep abreast of the most recent developments in the electronic market.</p>
+            </div>
+  
+            <div class="col-12">
+              <h4 class="font-fami1 text-primary  pt-3 pb-0 mb-0 ">What We Offer You'll discover on our website:</h4>
+              
+              <ul class=" pt-0 d-flex flex-column">
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Specifications and product details in great detail</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Comparisons of various brands and products</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Expert evaluations and rankings</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Tutorials, advice, and guides</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>articles and news stories on the newest developments in electronics</li>
+              </ul>
+            </div>
+  
+            <div class="col-12 pb-5">
+              <h4 class="font-fami1 text-primary  pt-3 pb-0 mb-0 ">The following are the steps to Using our website is simple:</h4>
+              <ul class=" pt-0 d-flex flex-column">
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>To locate the item you're looking for, browse through the various categories or use the search bar.</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Visit the product's detailed page to get the specs, features, and customer feedback.</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>To make a well-informed choice, compare items side by side.</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>For more information and suggestions, see our professional evaluations and advice.</li>
+                  <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Links to reliable merchants where you may buy the product are available once you've made your choice.</li>
+              </ul>
+              <p class="pt-1">We appreciate you making Vendee Technology your go-to source for information on electronic products.</p>
+            </div>
+  
+                  </div>
+              </div>
+  </section>
+</main>
+
+******************** Contact **************************
+
+<main>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 class=" pt-5 pb-0 mb-0 font-fami2 text-primary">Contact Us</h1>
+          <p >We'd be thrilled to hear from you! Please feel free to contact us using the details shown below if you have any questions, comments, or requests.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-3 mb-0  text-primary">Contact Details</h4>
+          <p><b class="font-fami1">Email : </b> <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new" target="_blank" class="text-black">vendeetechnology@gmail.com</a></p>
+          <p><b class="font-fami1">Address:  </b> Vendee Technology , Surat , India , 394150.</p>
+          
+        </div>
+  
+        <div class="col-12 pb-5">
+          <h4 class="font-fami1  pt-3 pb-3 mb-0  text-primary">Contact Form</h4>
+          <form action="[Your Form Submission URL]" method="post">
+            <label for="name" class="font-fami1 fw-semibold">Name:</label><br>
+            <input type="text" id="name" name="name" required><br>
+            
+            <label for="email" class="font-fami1 fw-semibold pt-3">Email:</label><br>
+            <input type="email" id="email" name="email" required><br>
+            
+            <label for="message" class="font-fami1 fw-semibold pt-3">Message:</label><br>
+            <textarea id="message" name="message" rows="5" required></textarea><br>
+            
+            <input type="submit" class="font-fami1 bg-primary text-white mt-3" value="Submit">
+        </form>
+        <p>We'll do all we can to get back to you as soon as we can. We appreciate you reaching out to us!</p>
+        </div>
+              </div>
+          </div>
+  </section>
+</main>
+
+
+******************** terms of service **************************
+
+<main>
+
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 class=" pt-5 pb-0 mb-0 font-fami2 text-primary">Terms of Service</h1>
+          <p >You accept to be legally bound by the following terms and conditions by accessing and using our website. Please carefully read them:</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">1. Terms are Accepted</h4>
+          <p>You accept that you have read, comprehended, and agree to be bound by these terms and conditions by accessing and using our website.</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">2. Intellectual Property</h4>
+          <p>All of the material, graphics, logos, and pictures on this website are the property of Vendee Technology and are thus shielded from infringement by intellectual property laws. Without previous written consent, you are not permitted to use, reproduce, distribute, or alter any of the material.</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">3. Liability Exclusion</h4>
+          <p>Only basic informative uses are intended for the data on this website. Despite our best efforts to ensure the accuracy and dependability of the content, we make no guarantees or representations of any kind, either express or implied, as to the suitability, availability, or completeness of the website or the information, products, services, or associated graphics contained therein. You use the website at your own risk and do so at your own peril.</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">4. Hyperlinks to Other Websites</h4>
+          <p>Links to third-party websites that are not under Vendee Technology's control or ownership may be found on our website. We take no responsibility for these websites' practises, privacy policies, or content because we have no control over any of those things. By using our links to visit third-party websites, you acknowledge and agree that Vendee Technology shall not be responsible for any losses or damages of any kind resulting from your use of such websites.</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">5. Liability Limitation</h4>
+          <p>Any liability for any direct, indirect, incidental, consequential, or special damages resulting from the use of our website or the information, goods, or services received from the website is expressly disclaimed by Vendee Technology and its affiliates. This covers, but is not limited to, damages for lost revenue, lost data, or other intangible losses, even if we were informed that they would occur.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">6. Changes to the Terms</h4>
+          <p>These terms and conditions are subject to change at any moment without prior notice. You consent to being bound by the new terms by using our website or continuing to use it after such adjustments go into effect. It is your duty to frequently evaluate the terms.</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">7. The Rule of Law</h4>
+          <p>The laws of Indiashall govern these terms and conditions and be applied in their interpretation. The courts in Indiashall have sole jurisdiction over any disputes arising out of or related to these terms and conditions.</p>
+        </div>
+  
+  
+        <div class="col-12 pb-5">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">10. Get in Touch</h4>
+          <p>Please contact us at <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new" target="_blank">vendeetechnology@gmail.com</a> if you have any questions or problems about our terms and conditions.</p>
+          <p>The last time this privacy statement was updated was 23<sup>th</sup> May 2023 .</p>
+        </div>
+              </div>
+          </div>
+  </section>
+</main>
+
+******************** Cookies **************************
+
+<main>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 class=" pt-5 pb-0 mb-0 font-fami2 text-primary">Cookies Policy</h1>
+          <p >The purpose of cookies, how we use them, and how you may manage cookies on our website are all covered by this Cookies Policy.</p>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">1. Describe Cookies</h4>
+          <p>When you visit a website, a little text file called a cookie is saved on your computer or mobile device. They are frequently used to increase the functionality and user experience of websites. Cookies come in two varieties: session cookies and persistent cookies</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">2. Our Cookie Policy</h4>
+          <p>The following are the reasons why we employ cookies:</p>
+          <ul class="pt-0 d-flex flex-column">
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Cookies that are essential to the correct operation of the website: These cookies cannot be deactivated. Typically, they are established in reaction to your actions, such as signing in, changing your privacy choices, or completing forms. Cookies used for website analysis and user behaviour tracking are known as analytical cookies.</li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>By doing this, we can enhance the website's functionality and user experience.  </li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i>Cookies that enable better functionality and customisation, such as remembering your preferences or showing tailored information, are known as functional cookies.</li>
+            <li class="sty"><i class="bi bi-arrow-right pe-2"></i> Advertising cookies: To offer adverts that are pertinent to your interests and to assess the success of our advertising campaigns, we may utilise third-party advertising cookies. </li>
+          </ul>
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">3. Your Cookie Choices</h4>
+          <p>You have the option to accept or reject cookies. Most web browsers accept cookies by default, however you can often change your browser's settings to prevent acceptance if you prefer. However, this can restrict you from using the website to its full potential.</p>
+          
+        </div>
+  
+        <div class="col-12">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">4. Cookies from Third Parties</h4>
+          <p>On our website, we could also employ cookies from third parties that are outside of our control. These cookies may gather data about your online activities over time and across other websites for marketing reasons. For additional details, please consult the relevant privacy and cookie policies of these third parties.</p>
+          
+        </div>
+  
+        <div class="col-12 pb-5">
+          <h4 class="font-fami1  pt-3 pb-0 mb-0  text-primary">5. Get in Touch</h4>
+          <p>Please get in touch with us at <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new" target="_blank">vendeetechnology@gmail.com</a> if you have any queries or complaints regarding our cookies policy.</p>
+          <p>The last time this privacy statement was updated was 23<sup>th</sup> May 2023 .</p>
+        </div>
+              </div>
+          </div>
+  </section>
+  </main>

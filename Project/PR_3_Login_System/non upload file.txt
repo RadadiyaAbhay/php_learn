@@ -1,0 +1,7 @@
+
+name = apni-notes
+link = https://apni-notes.000webhostapp.com/
+Website pass and database = @pniNotes5924
+admin = adminlogin
+pass  = adminapninotes5924
+secpass = apninotes5924 

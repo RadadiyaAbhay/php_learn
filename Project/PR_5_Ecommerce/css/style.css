@@ -1,0 +1,557 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden!important;
+}
+.join-box{
+    
+    height: 20.4vw; 
+    overflow: hidden!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.maingrid{
+    display: grid; grid-template-rows: repeat(4 , 24%);
+    grid-template-columns: repeat(4 , 24%);gap: 1%;height: 79.787vw;
+}
+.b1{
+    grid-column: 1/3; grid-row: 1/3;
+    
+}
+.b2{
+    grid-column: 3/4; grid-row: 1/2;
+}
+.b3{
+    grid-column: 4/5; grid-row: 1/2;    
+}
+.b4{
+    grid-column: 3/5; grid-row: 2/3;
+}
+.b5{
+    grid-column: 1/2; grid-row: 3/5;
+    
+}
+.b6{
+    grid-column: 2/5; grid-row: 3/5;
+    
+}
+.b1 img , .b5 img , .b6 img{
+    height: 38.298vw;
+}
+
+
+.hovbut button{
+    opacity: 1;
+    font-weight: 700;
+    border: none!important;
+    padding: 13px 23px !important;
+    border-radius:20px!important ;
+    background-color: rgb(85, 121, 237)!important;
+    animation-name: example;
+    animation-duration: 0.8s;
+}
+
+.dropp{
+    animation-name: example2;
+    animation-duration: 1s; 
+}
+@keyframes example {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+  @keyframes example2 {
+    from {opacity: 0; height: 0%;}
+    to {opacity: 1; height:fit-content;}
+  }
+
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+.py-96{
+    padding: 0px 24px 32px!important;
+}
+.overwidth{
+    width: 40%!important;
+}
+
+@media (max-width : 992px){
+    .overwidth{
+        width: 70%!important;
+    }
+    .py-100{
+        padding: 0px 24px 32px!important;
+    }
+
+    
+    .join-box{
+        height: 30vw;
+    }
+}
+
+
+@media (max-width : 768px){
+    .overf{
+        overflow:scroll;
+    }
+    .overf button{
+        font-size: 10px!important;
+    }
+    .fl{
+        width: 80%!important;
+    }
+    .overwidth{
+        width: 85%!important;
+    }
+    .join-box{
+        height: 30vw;
+    }
+    
+    .maingrid{
+        display: grid; grid-template-rows:repeat(5 ,20%);
+        grid-template-columns: repeat(2 , 50%);height: 170vw;
+    }
+    .b1{
+        grid-column: 1/3; grid-row: 1/2;
+        overflow: hidden!important;
+        
+    }
+    .b2{
+        grid-column: 1/2; grid-row: 2/3;
+        overflow: hidden!important;
+    }
+    .b3{
+        grid-column: 2/3; grid-row: 2/3;  
+        overflow: hidden!important;  
+    }
+    .b4{
+        grid-column: 1/3; grid-row: 3/4;
+        overflow: hidden!important;
+    }
+    .b5{
+        grid-column: 1/3; grid-row: 4/5;
+        overflow: hidden!important;
+        
+    }
+    .b6{
+        grid-column: 1/3; grid-row: 5/6;
+        overflow: hidden!important;
+        
+    }
+    .b1 img , .b5 img , .b6 img , .b2 img , .b3 img , .b4 img{
+        height: 100%!important;
+        width: 100%!important;
+    }
+    .ki{
+        top: 50px !important;
+    }
+    .py-96{
+        padding: 0px 12px 32px!important;
+    }
+    .heig{
+        height: 120vw!important;
+
+    }
+    .heig-img{
+        justify-content: center;
+        display: flex;
+    }
+    .overwidth2{
+        width: 90%!important;
+    }
+}
+@media (max-width : 567px){
+
+    .fl{
+        width: 95%!important;
+    }
+    .overwidth{
+        width: 90%!important;
+    }
+    .join-box{
+        height: 80vw;
+    }
+    .maingrid{
+        display: grid; grid-template-rows:repeat(5 ,20%);
+        grid-template-columns: repeat(2 , 50%);height: 200vw;
+    }
+    .py-96{
+        padding: 0px 0px 0px!important;
+    }
+    .hide1{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+
+
+}
+.hovbut:hover button{
+    display: block!important;
+    z-index: 99;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+
+/* New Css */
+
+.fs-7{
+    font-size: 12px;
+}
+.fs-8{
+    font-size: 14px
+    ;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.py-12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+ul,ol{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.py-100{
+    padding: 0px 48px 64px;
+}
+.py-99{
+    padding: 0px 48px 64px;
+}
+.p-c{
+    padding: 48px 64px;
+}
+
+.top-bar{
+    background: rgb(224,144,229);
+    background: linear-gradient(90deg, rgba(224,144,229,1) 0%, rgba(156,122,243,1) 100%);
+}   
+.w-30{
+    width: 30% !important;
+}
+
+
+/* header  */
+header{
+    z-index: 1;
+}
+
+
+/* main-banner  */
+
+.main-banner{
+    z-index: -1;
+    left: 0px;
+}
+
+
+/* popular section  */
+.box-first .quick-add{
+    display: none;
+    transition: 2s;
+}
+.box-first:hover .quick-add{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.search{
+    outline:  none;
+}
+
+
+/* user canva  */
+
+
+
+
+
+.user-canva .button{
+    display: flex;
+    align-items:center;
+    border: 1px gray solid;
+    border-radius: 24px;
+    background-color: white;
+    padding: .5rem 4rem;
+    margin: 1rem 0;
+}
+
+.user-canva .button:hover{
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+.user-canva  .button .img{
+    padding-right: 1rem;
+}
+
+.user-canva  .button p{
+    font-weight: bolder;
+}
+
+.user-canva  .img{
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.user-canva  .form{
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-canva  input{
+    margin: .8rem;
+}
+
+.user-canva  input[type="text"]{
+    border: 1px gray solid;
+    border-radius: 4px;
+    padding: .4rem 4rem;
+}
+
+.user-canva  input[type="text"]:focus{
+    outline: none;
+    border: 1px solid #1d9bf0;
+    cursor: pointer;
+}
+
+.user-canva  #next{
+    background-color: black;
+    color: white;
+    border: 1px black solid;
+    border-radius: 24px;
+    padding: .5rem 4rem;
+    font-weight: bold;
+}
+
+.user-canva  #next:hover{
+    cursor: pointer;
+}
+
+.user-canva  #forgot{
+    background-color: white;
+    border: 1px gray solid;
+    border-radius: 24px;
+    padding: .5rem 4rem;
+}
+
+.user-canva  #forgot:hover{
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+.user-canva  #signup{
+    color: gray;
+    font-size: 14px;
+}
+
+.user-canva  #signup a{
+    color: #1d9bf0;
+    text-decoration: none;
+}
+
+
+/* add to cart  */
+.vinteg{
+    position: relative;
+    cursor: pointer;
+}
+.vinteg:before{
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 0px;
+	border-bottom: solid 2px black;
+    transition: 1s ;
+}
+.vinteg:hover::before{
+    width: 150px;
+}
+
+/* dropped-b0x  */
+
+.dropped-box{
+    transition: 0.5s;
+    overflow: hidden;
+}
+.dropped-box:hover .drop-img img{
+    scale: 1.1;
+    transition:1.5s ease;
+}
+
+
+
+
+/* threads-section  */
+
+
+.thread-box{
+    transition: 0.5s;
+    overflow: hidden;
+}
+.thread-box:hover .thread-img img{
+    scale: 1.1;
+    transition:1.5s ease;
+}
+.thread-box .thread-icon , .dropped-box .thread-icon{
+    display: none;
+}
+.thread-box:hover .thread-icon, .dropped-box:hover .thread-icon{
+    display: block;
+}
+/* accessory-box  */
+
+
+.accessory-box{
+    transition: 0.5s;
+    overflow: hidden;
+}
+.accessory-box:hover .accessory-img img{
+    scale: 1.1;
+    transition:1.5s ease;
+}
+
+/* theme  */
+
+.theme-box{
+    transition: 0.5s;
+    overflow: hidden;
+}
+.theme-box:hover .theme-img img{
+    scale: 1.1;
+    transition:1.5s ease;
+}
+.theme-box .thread-icon{
+    display: none;
+}
+.theme-box:hover .thread-icon{
+    display: block;
+}
+
+
+
+/* join sec  */
+
+
+.join-box::after{
+    content: "Hey George, the ocean called. They’re running out of shrimp. 🍤       ✍️ Jerk Store by @threadheads";
+    width: 100%;
+    height: 100%;
+    background-color: black ;
+    opacity: 0.7;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    color: white;
+    font-size: 14px;
+    padding: 15px 10px;
+}
+.join-box:hover::after{
+    top: 0% ;
+    left: 0%;
+    transition: 1s ;
+}
+
+
+
+a{
+    cursor: pointer;
+
+}
+
+.reswhite{
+    color: white;
+}
+.hide1:hover .show1{
+    display: flex!important;
+} 
+
+.show1{
+    transition: all 5s!important;
+    animation: example;
+    animation-duration: 2s;
+}
+
+
+.sticky-learn{
+    position: relative;
+}
+
+.sticky-learn::before{
+    content: '';
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 70px;
+	border-bottom: solid 2px black;
+    transition: 1s ;
+}
+.sticky-learn:hover::before{
+    width: 0px;
+    transition: 1s;
+}
+
+
+.sticky-more-riview .review ul li {
+    list-style: disc;
+}
+
+.sticky-learnss{
+    position: relative;
+}
+.sticky-learnss::before{
+    content: '';
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 90px;
+	border-bottom: solid 2px black;
+    transition: 1s ;
+}
+
+.sticky-learnss:hover::before{
+    width: 0px;
+    transition: 1s;
+}
+
+.pink{
+    color: #f45195;
+}
+.fs-20{
+    font-size: 20px;
+}
+.text-seconderys{
+    color: #1a1a1a;
+}
+
+.hovbor:hover{
+    border-bottom: 2px solid #444444;
+
+}
+.hovbor , .hovbortop{
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+.hovbortop:hover{
+    border-top: 2px solid #444444;
+}
+
+.hovvv:hover{
+    transform: rotate(270deg);
+    background-color: #1a1a1a!important;
+    color: white!important;
+}
+
+.fit-width{
+    width: fit-content;
+}
